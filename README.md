@@ -7,8 +7,7 @@ Python tools that are free for pastors to use.
 ## **Step-by-Step Setup**
 
 **1. Install Python:**
-a. Ensure that Python is pre-installed on your system. Most macOS versions come with Python pre-installed (not true of Windows),\
-but you can check by opening.....
+a. Ensure that Python is pre-installed on your system. Most macOS versions come with Python pre-installed (not true of Windows), but you can check by opening.....\
        
     Command Prompt on PC (Windows key + type cmd).....or.....Terminal on Mac OS (found in Applications > Utilities)
 .....and typing:
@@ -30,22 +29,22 @@ a. Open a text editor, like.....
 b. Save the file as Powerpoint_Images_to_Slides.py. Make sure to select "Plain Text" format in Notepad/TextEdit to avoid any formatting issues.
     
 **4. Create a Simple Launcher:**
-a. Create a simple double-click script.
+a. Create a simple double-click script.\
 b. Open a new text file in TextEdit and add the following lines to the file:
     
         #!/bin/bash
         python3 /path/to/your/Powerpoint_Images_to_Slides.py
-c. Replace /path/to/your/create_presentation.py with the actual path where you saved the Python script.
+c. Replace /path/to/your/create_presentation.py with the actual path where you saved the Python script.\
 d. Save this file as Run_Powerpoint_Images_to_Slides.sh and make sure to select "Plain Text" format.
 
 **5. Make the Shell Script Executable:**
-a. Open a terminal.
+a. Open a terminal.\
 b. In the Terminal window, type cd (with a space after cd), then drag and drop the folder (location of the .sh file) from.....
     
        Windows Explorer on PC.....or.....Finder on Mac OS
 .....into the Command Prompt/Terminal window.
-c. This will automatically insert the path to that directory.
-d. Press Enter to change to that directory.    
+c. This will automatically insert the path to that directory.\
+d. Press Enter to change to that directory.\  
 e. Run the following command to make the script executable:
     
         chmod +x Run_Powerpoint_Images_to_Slides.sh
