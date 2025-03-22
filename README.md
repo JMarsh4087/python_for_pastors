@@ -1,11 +1,10 @@
 # **python_for_pastors**
-Python tools that are free for pastors to use.\
+Python tools that are free for pastors to use.
 
 # **Tool 01: Powerpoint Images to Slides**
   Easily generate slides with one full bleed image per slide. Just provide a path to the folder where the images are stored.
 
 ## **Step-by-Step Setup**\
-\
 \
 **1. Install Python:**\
 a. Ensure that Python is pre-installed on your system. Most macOS versions come with Python pre-installed (not true of Windows), but you can check by opening.....
